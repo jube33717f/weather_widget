@@ -13,7 +13,7 @@
  })
 
  const enrichRequest = (config) => {
-    config.params.appid = process.env.API_KEY?process.env.API_KEY:'e682527a758e6a7479a68de3d3461e1b'
+    config.params.appid = process.env.API_KEY
     config.params.units = 'metric'
     return config
  }
