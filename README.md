@@ -32,7 +32,6 @@ Frontend tech stack:
 ```
 $cd weather_forecast
 $npm install
-$API_KEY=${your open weather api key}
 $npm start
 
 ```
