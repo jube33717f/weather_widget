@@ -86,4 +86,4 @@ $npm start
     ┗ setupTests.js
 ```
 # View
-[View](https://i.imgur.com/rngGrnw.jpg)
+![View](https://i.imgur.com/rngGrnw.jpg)
