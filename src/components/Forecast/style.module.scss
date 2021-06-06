@@ -1,0 +1,53 @@
+/**
+ * file: Forecast section style
+ * date: 2021-06-06
+ * author: Jubi
+ * lastModify: Jubi 2021-06-06
+ */
+.forecast {
+    padding: 24px 36px;
+    order: -1;
+}
+
+.header {
+    margin: 0;
+    margin-bottom: 0.5rem;
+    letter-spacing: 2px;
+    font-size: 1rem;
+    display:flex;
+    font-weight: 300;
+    button{
+        border: #3f51b5 solid 1px;
+        margin-left:1rem;
+    }
+}
+
+.weathers {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    min-width: 400px;
+}
+
+@media screen and (min-width: 1024px) {
+    .forecast {
+        padding: 16px 70px;
+        flex: 1;
+        order: 1;
+    }
+
+    .header {
+        margin-bottom: 1rem;
+        font-size: 1.5rem;
+    }
+    .weathers {
+        min-width: 400px;
+    }
+}
+@media screen and (max-width: 540px) {
+    .weathers {
+        max-width: 280px;
+        min-width: 0;
+        overflow:scroll
+    }
+}
