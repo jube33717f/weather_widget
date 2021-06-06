@@ -37,38 +37,6 @@ $npm start
 
 ```
 
-# Roadmap
-# Weather Forecast
-> Author: Jubi
-> 
-> Last edit date: 2021.6.6
->
-> Description: Weather forecast app
->
-> Link on [here]()
-
-
-
-# Tech/framework used
-Frontend tech stack:
-* React JS
-* SASS
-
-
-# Features
-* The weeks weather in my  current location
-* Allows user to switch between Celcius and Fahrenheit
-* Allows the user to enter in a city name to look up
-
-# Installation / Usage
-
-```
-$cd weather_forecast
-$npm install
-$API_KEY=${your open weather api key}
-$npm start
-
-```
 
 # Roadmap
 ```
@@ -118,4 +86,6 @@ $npm start
     ┗ setupTests.js
 ```
 # View
+<h1 align="center">
 <img src='https://imgur.com/rngGrnw' alt="weather forecast view" title="weather forecast view" width="700">
+</h1>
