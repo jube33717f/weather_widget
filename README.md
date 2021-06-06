@@ -86,6 +86,4 @@ $npm start
     ┗ setupTests.js
 ```
 # View
-<h1 align="center">
-<img src='https://imgur.com/rngGrnw' alt="weather forecast view" title="weather forecast view" width="700">
-</h1>
+![View](https://imgur.com/rngGrnw)
